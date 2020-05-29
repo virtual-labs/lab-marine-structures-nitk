@@ -1,0 +1,79 @@
+{
+    "broadArea": {
+	"name": "Civil Engineering",
+	"link": "http://vlab.co.in/broad-area-civil-engineering"
+    },
+    "lab": "Marine Structures",
+    "phase": "3",
+    "deployLab":true,
+    "collegeName": "NITS",
+    "baseUrl": "http://ms-nitk.vlabs.ac.in",
+    "introduction": "Welcome to the Marine Structures Lab",
+    "experiments": [
+	    {
+	        "name": "Wave Attenuation in Pile Based Breakwater",
+		"short-name": "Pile-Based-Breakwater",
+		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/marine-structures-nitk/wave-attenuation-in-pile-based-breakwater-nitk.git",
+ 	        "tag": "v1.0.0",
+         	"deploy": true
+	    }, {
+	        "name": "Wave Attenuation in Vegetation Based Breakwater",
+		"short-name": "Vegetation-Based-Breakwater",
+		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/marine-structures-nitk/wave-attenuation-in-vegetation-based-breakwater-nitk.git",
+ 	        "tag": "v1.0.0",
+         	"deploy": true
+	    }, {
+	        "name": "Slump Test",
+		"short-name": "Slump-Test",
+		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/marine-structures-nitk/slump-test-nitk.git",
+ 	        "tag": "v1.0.0",
+         	"deploy": true
+	    }, {
+	        "name": "Concrete Mix Design",
+		"short-name": "Concrete-Mix-Design",
+		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/marine-structures-nitk/concrete-mix-design-nitk.git",
+ 	        "tag": "v1.0.0",
+         	"deploy": true
+	    }, {
+	        "name": "Specific Gravity of Cement and Aggregates",
+		"short-name": "Cement-and-Aggregates",
+		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/marine-structures-nitk/specific-gravity-of-cement-and-aggregates-nitk.git",
+ 	        "tag": "v1.0.0",
+         	"deploy": true
+	    }, {
+	        "name": "Fineness Modulus of Aggregates",
+		"short-name": "Fineness-Modulus-of-Aggregates",
+		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/marine-structures-nitk/fineness-modulus-of-cement-and-aggregates-nitk.git",
+	        "tag": "v1.0.0",
+         	"deploy": true
+	    }, {
+	        "name": "Standard Consistency and Initial Setting Time of Cement",
+		"short-name": "Time-of-Cement",
+		"repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/marine-structures-nitk/standard-consistency-and-initial-setting-time-of-cement-nitk",
+ 	        "tag": "v1.0.0",
+         	"deploy": true
+        }
+    ],
+    "targetAudience": {
+	"UG": [
+	    "B. Tech./ B.E in Civil Engineering"
+	],
+	"PG": [
+	    "MS/Ph. D. Beginners in Civil Engineering and related topics"
+	]
+    },
+    "objective": "To visualise the wave attenuation characteristics of the breakwaters and to provide basic knowledge of structural and concreting materials used for marine purpose.",
+    "courseAlignment": {
+	"description": "The syllabi of this lab aligns to the following universities in India.",
+	"universities": [
+	    "Visvesvaraya Technological University Karnataka",
+	    "National Institute of Technology Karnataka Karnataka",
+	    "University of Kerala Kerala",
+	    "Anna University Tamil Nadu",
+	    "Goa University Goa",
+	    "CUSAT Kerala",
+	    "Shivaji University Maharashtra",
+	    "Mumbai University (MU) Maharashtra"
+	]
+    }
+}
