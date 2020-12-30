@@ -13,50 +13,50 @@
     {
       "name": "Wave Attenuation in Pile Based Breakwater",
       "short-name": "pile-based-breakwater",
-      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/marine-structures-nitk/wave-attenuation-in-pile-based-breakwater-nitk.git",
-      "tag": "v1.0.2",
+      "repo": "https://github.com/virtual-labs/exp-pile-based-breakwater-nitk",
+      "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "Wave Attenuation in Vegetation Based Breakwater",
       "short-name": "vegetation-based-breakwater",
-      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/marine-structures-nitk/wave-attenuation-in-vegetation-based-breakwater-nitk.git",
-      "tag": "v1.0.2",
+      "repo": "https://github.com/virtual-labs/exp-vegetation-based-breakwater-nitk",
+      "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "Slump Test",
       "short-name": "slump-test",
-      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/marine-structures-nitk/slump-test-nitk.git",
-      "tag": "v1.0.3",
+      "repo": "https://github.com/virtual-labs/exp-slump-test-nitk",
+      "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "Concrete Mix Design",
       "short-name": "concrete-mix-design",
-      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/marine-structures-nitk/concrete-mix-design-nitk.git",
-      "tag": "v1.0.2",
+      "repo": "https://github.com/virtual-labs/exp-concrete-mix-design-nitk",
+      "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "Specific Gravity of Cement and Aggregates",
       "short-name": "cement-and-aggregates",
-      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/marine-structures-nitk/specific-gravity-of-cement-and-aggregates-nitk.git",
-      "tag": "v1.0.2",
+      "repo": "https://github.com/virtual-labs/exp-cement-and-aggregates-nitk",
+      "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "Fineness Modulus of Aggregates",
       "short-name": "fineness-modulus-of-aggregates",
-      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/marine-structures-nitk/fineness-modulus-of-cement-and-aggregates-nitk.git",
-      "tag": "v1.0.2",
+      "repo": "https://github.com/virtual-labs/exp-fineness-modulus-of-aggregates-nitk",
+      "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "Standard Consistency and Initial Setting Time of Cement",
       "short-name": "time-of-cement",
-      "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/marine-structures-nitk/standard-consistency-and-initial-setting-time-of-cement-nitk",
-      "tag": "v1.0.2",
+      "repo": "https://github.com/virtual-labs/exp-time-of-cement-nitk",
+      "tag": "v1.0.0",
       "deploy": true
     }
   ],
