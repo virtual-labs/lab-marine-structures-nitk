@@ -58,7 +58,7 @@
       "repo": "https://github.com/virtual-labs/exp-slump-test-nitk",
       "tag": "v1.0.2",
       "deploy": true
-    },
+    }
   ],
   "targetAudience": {
     "UG": ["B. Tech./ B.E in Civil Engineering and Ocean Engineering"],
