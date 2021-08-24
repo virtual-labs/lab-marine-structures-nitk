@@ -75,7 +75,7 @@
       "Concrete Laboratory - Visvesvaraya Technological University (VTU)"
     ]
   },
-  "version": "v1.2.0",
-  "exp_name": "Standard Consistency and Initial Setting Time of Cement",
-  "exp_short_name": "time-of-cement"
+  "version": "v1.3.0",
+  "exp_name": "Slump Test",
+  "exp_short_name": "slump-test"
 }
