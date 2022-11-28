@@ -4,6 +4,7 @@
     "link": "http://vlab.co.in/broad-area-civil-engineering"
   },
   "lab": "Marine Structures",
+  "lab_display_name": "Marine Structures",
   "phase": 3,
   "deployLab": true,
   "collegeName": "NITS",
@@ -75,7 +76,7 @@
       "Concrete Laboratory - Visvesvaraya Technological University (VTU)"
     ]
   },
-  "version": "v1.5.0",
+  "version": "v1.6.0",
   "exp_name": "Slump Test",
   "exp_short_name": "slump-test"
 }
