@@ -7,7 +7,7 @@
   "lab_display_name": "Marine Structures",
   "phase": 3,
   "deployLab": true,
-  "collegeName": "NITS",
+  "collegeName": "NITK",
   "baseUrl": "ms-nitk.vlabs.ac.in",
   "introduction": "Welcome to the Marine Structures Lab",
   "experiments": [
@@ -76,7 +76,7 @@
       "Concrete Laboratory - Visvesvaraya Technological University (VTU)"
     ]
   },
-  "version": "v1.6.0",
+  "version": "v1.7.0",
   "exp_name": "Slump Test",
   "exp_short_name": "slump-test"
 }
