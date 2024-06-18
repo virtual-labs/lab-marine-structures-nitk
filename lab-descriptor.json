@@ -1,7 +1,8 @@
 {
   "broadArea": {
     "name": "Civil Engineering",
-    "link": "http://vlab.co.in/broad-area-civil-engineering"
+    "link": "http://vlab.co.in/broad-area-civil-engineering",
+    "code": "CIVIL"
   },
   "lab": "Marine Structures",
   "lab_display_name": "Marine Structures",
@@ -75,8 +76,5 @@
       "Material Testing Laboratory - Goa University",
       "Concrete Laboratory - Visvesvaraya Technological University (VTU)"
     ]
-  },
-  "version": "v1.7.0",
-  "exp_name": "Slump Test",
-  "exp_short_name": "slump-test"
+  }
 }
