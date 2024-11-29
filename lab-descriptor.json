@@ -30,7 +30,7 @@
       "name": "Specific Gravity of Cement and Aggregates",
       "short-name": "cement-and-aggregates",
       "repo": "https://github.com/virtual-labs/exp-cement-and-aggregates-nitk",
-      "tag": "v1.0.2",
+      "tag": "v1.0.4",
       "deploy": true
     },
     {
