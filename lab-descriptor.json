@@ -30,7 +30,7 @@
       "name": "Specific Gravity of Cement and Aggregates",
       "short-name": "cement-and-aggregates",
       "repo": "https://github.com/virtual-labs/exp-cement-and-aggregates-nitk",
-      "tag": "v1.0.4",
+      "tag": "v1.0.5",
       "deploy": true
     },
     {
@@ -63,8 +63,13 @@
     }
   ],
   "targetAudience": {
-    "UG": ["B. Tech./ B.E in Civil Engineering and Ocean Engineering"],
-    "PG": ["M.Tech/MS in Marine Structures", "Diploma in Civil Engineering"]
+    "UG": [
+      "B. Tech./ B.E in Civil Engineering and Ocean Engineering"
+    ],
+    "PG": [
+      "M.Tech/MS in Marine Structures",
+      "Diploma in Civil Engineering"
+    ]
   },
   "objective": "To visualise the wave attenuation characteristics of the breakwaters and to provide basic knowledge of structural and concreting materials used for marine purpose.",
   "courseAlignment": {
